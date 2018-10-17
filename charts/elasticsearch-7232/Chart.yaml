@@ -19,4 +19,4 @@ sources:
 - https://github.com/GoogleCloudPlatform/elasticsearch-docker
 - https://github.com/clockworksoul/helm-elasticsearch
 - https://github.com/pires/kubernetes-elasticsearch-cluster
-version: 1.11.0
+version: 0.0.1
